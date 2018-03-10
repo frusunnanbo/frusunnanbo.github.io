@@ -1,0 +1,34 @@
+{
+  "name": "climate",
+  "children": [
+    {
+      "name": "Jord- och skogsbruk",
+      "size": 24
+    },
+    {
+      "name": "Transport",
+      "children": [
+        {
+          "name": "Flyg",
+          "size": 4
+        },
+        {
+          "name": "Bilar och sånt",
+          "size": 10
+        }
+      ]
+    },
+    {
+      "name": "Industri",
+      "size": 21
+    },
+    {
+      "name": "Energiproduktion",
+      "size": 35
+    },
+    {
+      "name": "Boende",
+      "size": 4
+    }
+  ]
+}
